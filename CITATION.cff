@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "MycoIris: The Fungal Colony as a Polymorphic Analog to the Human Iris in Biometric Workflows"
+message: "If you use or reference this work, please cite it."
+type: software
+authors:
+  - family-names: Winiski
+    given-names: Jake
+repository-code: "https://github.com/YOURNAME/MycoIris"
+license: CC-BY-NC-SA-4.0
+date-released: "2026-05-21"
+keywords:
+  - biometrics
+  - fungal morphology
+  - physical unclonable function
+  - iris recognition
+  - mycocode
+  - Chlorociboria aeruginascens
