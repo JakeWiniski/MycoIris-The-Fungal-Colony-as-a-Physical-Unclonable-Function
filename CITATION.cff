@@ -5,7 +5,9 @@ type: software
 authors:
   - family-names: Winiski
     given-names: Jake
-repository-code: "https://github.com/JakeWiniski/MycoIris"
+    orcid: "https://orcid.org/0009-0003-7742-1284"
+doi: "10.5281/zenodo.20336297"
+repository-code: "https://github.com/YOURNAME/MycoIris"
 license: CC-BY-NC-SA-4.0
 date-released: "2026-05-21"
 keywords:
