@@ -114,7 +114,7 @@ The proof-of-concept uses *Chlorociboria aeruginascens*, a wood-decay fungus tha
 
 If you use this work, please cite:
 
-> Winiski, J. (2026). *MycoIris: The Fungal Colony as a Polymorphic Analog to the Human Iris in Biometric Workflows.* Proof-of-concept report. DOI: 10.5281/zenodo.20336297.
+> Winiski, J. (2026). MycoIris: The Fungal Colony as a Polymorphic Analog to the Human Iris in Biometric Workflows (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20336297
 
 ## License
 
