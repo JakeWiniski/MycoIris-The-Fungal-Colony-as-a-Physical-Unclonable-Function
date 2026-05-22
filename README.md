@@ -58,22 +58,6 @@ Eight resin-stabilized *Chlorociboria aeruginascens* colonies were each imaged t
 
 The clear bimodal separation between intra-token and inter-token distances, with no observed overlap at the decision threshold, confirms that each colony produces a distinct, reproducible digital signature. Every replicate scan was correctly identified as its token's nearest non-self neighbor.
 
-## Repository Structure
-
-```
-MycoIris/
-├── README.md
-├── The Fungal Colony as a Polymorphic Analog to the Human Iris
-│   in Biometric Workflows.pdf          # Full technical report
-├── MycoIris MycoCode Processing.ipynb  # Segmentation, unwrapping, encoding pipeline
-├── MycoIris Hamming Distance.ipynb     # Pairwise comparison and analysis
-└── Token Image Set/                    # Source images (8 specimens x 2 replicates)
-    ├── 01.png
-    ├── 01_rep.png
-    ├── ...
-    └── 08_rep.png
-```
-
 ### Notebooks
 
 **MycoIris MycoCode Processing.ipynb** — End-to-end pipeline for a single specimen image:
