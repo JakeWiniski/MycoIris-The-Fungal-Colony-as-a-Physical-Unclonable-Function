@@ -1,4 +1,5 @@
 # MycoIris
+[![DOI](https://zenodo.org/badge/1246171487.svg)](https://doi.org/10.5281/zenodo.20336296)
 
 **Fungal colony morphology as a polymorphic analogue to the human iris for biometric-grade physical unclonable functions.**
 
